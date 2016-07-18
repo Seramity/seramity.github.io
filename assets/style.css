@@ -9,6 +9,11 @@
   font-family: 'Open Sans';
   src: url('OpenSans-Regular.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'Open Sans';
+  src: url('OpenSans-Light.ttf') format('truetype');
+  font-weight: 300;
+}
 /* entypo */
 [class*="entypo-"]:before { font-family: 'entypo', sans-serif }
 
