@@ -1,11 +1,13 @@
 @charset "UTF-8";
 /* FONTS */
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(http://fonts.googleapis.com/css?family=Lobster);
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 @font-face {
   font-family: 'Cheddar Jack';
   src: url('CheddarJack.woff') format('woff'), url('CheddarJack.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('OpenSans-Regular.ttf') format('truetype');
 }
 /* entypo */
 [class*="entypo-"]:before { font-family: 'entypo', sans-serif }
