@@ -1,12 +1,3 @@
-/* entypo */
-@import url(http://weloveiconfonts.com/api/?family=entypo);
-[class*="entypo-"]:before { font-family: 'entypo', sans-serif }
-
-@font-face {
-  font-family: 'Entypo';
-  src: url('http://weloveiconfonts.com/api/?family=entypo') format('truetype');
-}
-
 @-webkit-viewport { width: device-width; }
 @-moz-viewport { width: device-width; }
 @-ms-viewport { width: device-width; }
